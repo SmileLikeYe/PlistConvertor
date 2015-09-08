@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Attributes</key>
+		<string>@a@u</string>
+		<key>ModelName</key>
+		<string>cityid</string>
+		<key>PropertyName</key>
+		<string>Cityid</string>
+		<key>Type</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Attributes</key>
+		<string>@a@u</string>
+		<key>ModelName</key>
+		<string>cityname</string>
+		<key>PropertyName</key>
+		<string>Cityname</string>
+		<key>Type</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Attributes</key>
+		<string>@a@u</string>
+		<key>ModelName</key>
+		<string>provinceid</string>
+		<key>PropertyName</key>
+		<string>Provinceid</string>
+		<key>Type</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>Attributes</key>
+		<string>@a@u</string>
+		<key>ModelName</key>
+		<string>provincename</string>
+		<key>PropertyName</key>
+		<string>Provincename</string>
+		<key>Type</key>
+		<integer>0</integer>
+	</dict>
+</array>
+</plist>
